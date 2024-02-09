@@ -2,4 +2,4 @@
 
 Quick design of a responsive newsletter with email verification.
 
-<span>https://raw.githubusercontent.com/cristiancavelasquez/WaterPy/newsletter/src/assets/images/screenShot.png</span><span></span>
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](./src/assets/images/screenShot.png)
